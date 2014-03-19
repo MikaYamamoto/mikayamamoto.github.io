@@ -4,12 +4,21 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://MikaYamamoto.github.io/atom.xml" rel="self"/>
   <link href="http://MikaYamamoto.github.io/"/>
-  <updated>2014-03-19T16:28:00+09:00</updated>
+  <updated>2014-03-19T16:32:51+09:00</updated>
   <id>http://MikaYamamoto.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[about]]></title>
+    <link href="http://MikaYamamoto.github.io/blog/2014/03/19/about/"/>
+    <updated>2014-03-19T16:32:46+09:00</updated>
+    <id>http://MikaYamamoto.github.io/blog/2014/03/19/about</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
